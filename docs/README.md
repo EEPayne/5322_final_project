@@ -6,7 +6,7 @@ This project is an exploration of quarterly financial and utilization data from 
 
 ### Data
 
-Data for Washtingon hospitals are made available through the [washington state open data portal](https://data.wa.gov/) as the Hospital-Financial-Quarterly-Aggregate-Report
+Data for Washtingon hospitals are made available through the [washington state open data portal](https://data.wa.gov/) as the Hospital-Financial-Quarterly-Aggregate-Report. Data was originally sourced from the Washington State Department of Health and further documentation is available [here](https://doh.wa.gov/data-statistical-reports/healthcare-washington/hospital-and-patient-data/hospital-financial-data).
 
 Data for Oregon hospitals are made available through the Oregon Health Authority as monthtly reported data [here](https://www.oregon.gov/oha/HPA/ANALYTICS/Pages/Hospital-Reporting-Databank.aspx)
 
